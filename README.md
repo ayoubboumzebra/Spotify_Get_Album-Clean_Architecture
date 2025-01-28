@@ -65,21 +65,20 @@ https://github.com/user-attachments/assets/aefb29b2-fe6b-4b40-b4f6-5146d0bc5fc7
 ### **6. Setup and Installation**
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/spotify-albums-app.git
+    git clone https://github.com/your-username/Spotify_Get_Album-Clean_Architecture.git
     ```
 2. **Navigate to the Project Directory:**
     ```bash
     cd spotify-albums-app
     ```
 3. **Obtain Spotify API Credentials:**
-    - Register an application on the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/applications).
-    - Obtain `Client ID` and `Client Secret`.
+    - Register an application on the [Spotify Developer Dashboard](https://rapidapi.com/Glavier/api/spotify23).
+    - Obtain `API_KEY`.
 
 4. **Configure API Keys:**
     - Add API keys in `local.properties`:
       ```properties
-      CLIENT_ID="your_client_id"
-      CLIENT_SECRET="your_client_secret"
+      API_KEY="your_API_KEY"
       ```
 
 5. **Build and Run:**
