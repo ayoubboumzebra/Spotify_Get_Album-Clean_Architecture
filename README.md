@@ -44,9 +44,12 @@ The project is structured based on **Clean Architecture** principles:
 ---
 
 ### **4. Screenshots**
-*(Include a few screenshots of the app in action)*
-![Image](https://github.com/ayoubboumzebra/Spotify_Get_Album-Clean_Architecture/blob/main/Screenshot_Spotify_Album_List_Clean_Architecture.png)
-![Demo](https://youtube.com/shorts/NvIeP3i1wp4?feature=share)
+<img src="https://github.com/ayoubboumzebra/Spotify_Get_Album-Clean_Architecture/blob/main/Screenshot_Spotify_Album_List_Clean_Architecture.png" alt="Home Screen" width="400" />
+
+ **Demo**
+ 
+https://github.com/user-attachments/assets/aefb29b2-fe6b-4b40-b4f6-5146d0bc5fc7
+
 
 
 ### **5. Tech Stack**
