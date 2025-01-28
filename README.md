@@ -28,7 +28,7 @@ A modern Android application built with **Jetpack Compose** to browse and explor
 - 🎶 Fetch and display Spotify albums
 - 🖌️ Responsive UI with Jetpack Compose
 - 📂 Clean Architecture for modularity and scalability
-- 📦 Dependency Injection with Hilt
+- 📦 Dependency Injection with Koin
 - 🌐 API integration using Retrofit
 - 📶 Asynchronous operations with Coroutines & Flow
 - 🔧 Error handling for a smooth user experience
