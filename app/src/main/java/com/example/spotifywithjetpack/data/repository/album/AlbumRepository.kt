@@ -12,7 +12,7 @@ class AlbumRepository(private val albumRemoteDatasource: AlbumRemoteDatasource) 
         println("------> AlbumRepository 0")
 
         return try {
-            delay(duration = 5.seconds)
+            delay(duration = 1.seconds)
             albumRemoteDatasource.getAlbums().toEntity()
 
         } catch (e: Exception) {
